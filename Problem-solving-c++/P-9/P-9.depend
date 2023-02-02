@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669064004 source:d:\c++\p-9\main.cpp
+	<iostream>
+	<cmath>
+
